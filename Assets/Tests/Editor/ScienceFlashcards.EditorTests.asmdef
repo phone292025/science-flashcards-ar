@@ -1,0 +1,10 @@
+{
+    "name": "ScienceFlashcards.EditorTests",
+    "references": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}
